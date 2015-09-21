@@ -1,2 +1,7 @@
 git test
-insert branch created
+>> insert branch created
+
+>> created assets folder
+>> downloaded bootstrap and jquery in assets folder
+>> created codeigniter_emp_db
+
